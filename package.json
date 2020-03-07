@@ -1,0 +1,27 @@
+{
+  "name": "ipcmain2renderer",
+  "version": "1.0.0",
+  "description": "Electron transfer data from ipcMain to ipcRenderer",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belezyc/ipcMain2Renderer.git"
+  },
+  "keywords": [
+    "electron",
+    "ipcMain",
+    "ipcRenderer"
+  ],
+  "author": "Clément Belezy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belezyc/ipcMain2Renderer/issues"
+  },
+  "homepage": "https://github.com/belezyc/ipcMain2Renderer#readme",
+  "dependencies": {
+    "electron": "^8.1.0"
+  }
+}
