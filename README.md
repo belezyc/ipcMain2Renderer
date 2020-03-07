@@ -6,3 +6,6 @@ Electron demo to send data from ipcMain to ipcRenderer
 
 2. Go to created directory ipcMain2Renderer and type command:
 > npm install
+
+3. Start the app
+> npm start
