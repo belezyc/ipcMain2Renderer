@@ -5,4 +5,4 @@ Electron demo to send data from ipcMain to ipcRenderer
 > git clone <URL>
 
 2. Go to created directory ipcMain2Renderer and type command:
-> npm init
+> npm install
