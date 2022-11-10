@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/belezyc/ipcMain2Renderer#readme",
   "dependencies": {
-    "electron": "^9.4.0"
+    "electron": "^18.3.7"
   }
 }
